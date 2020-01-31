@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\bin\Debug\DecisãoComBaseEmIdade.exe.config
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\bin\Debug\DecisãoComBaseEmIdade.exe
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\bin\Debug\DecisãoComBaseEmIdade.pdb
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.Form1.resources
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.Properties.Resources.resources
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.exe
+C:\Users\Pichau\source\repos\DecisãoComBaseEmIdade\DecisãoComBaseEmIdade\obj\Debug\DecisãoComBaseEmIdade.pdb
